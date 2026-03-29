@@ -52,4 +52,6 @@ While the overall structure is appropriate, several risks are identified:
 Weekly structured meetings will be used to evaluate progress, track completion of tasks, and identify blockers. Each milestone will include a review checkpoint to ensure that work meets expected standards before progressing to the next stage.  
 
 ### Integration Plan  
-Integration will occur incrementally rather than at the final stage. All members will push updates regularly to GitHub, enabling continuous testing and reducing merge conflicts. This approach ensures system stability and improves overall project quality.  
+Integration will occur incrementally rather than at the final stage. All members will push updates regularly to GitHub, enabling continuous testing and reducing merge conflicts. This approach ensures system stability and improves overall project quality. 
+
+Additional Note: Regular progress updates will be shared through GitHub commits to ensure transparency and continuous improvement.
