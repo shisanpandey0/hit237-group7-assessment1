@@ -9,7 +9,7 @@
 ## A. Terms and Conditions of Group Work  
 
 ### Communication  
-The group will use Microsoft Teams as the primary communication platform for discussions, meetings, and updates, while GitHub Issues will be used for task tracking and documentation. Members are expected to respond within 12–24 hours to maintain workflow continuity. Weekly structured meetings will be held every Sunday evening, supported by brief mid-week check-ins when required. Meeting outcomes and decisions will be summarised and shared to ensure transparency and accountability across all members.  
+The group will use Microsoft Teams as the primary communication platform for discussions, meetings, and updates, while GitHub Issues will be used for task tracking and documentation. Members are expected to respond within 12–24 hours to maintain workflow continuity. Weekly structured meetings will be held every Sunday evening, supported by brief mid-week check-ins when required. Refine communication and add meeting documentation.
 
 ### Task Ownership  
 Tasks will be allocated based on individual strengths, availability, and project requirements, ensuring balanced contribution. Each task will be clearly defined and tracked using GitHub Issues, with progress evidenced through commits. If a member falls behind or becomes unavailable, early communication is required so tasks can be redistributed. Persistent lack of contribution will be documented and may influence internal evaluation of effort.  
